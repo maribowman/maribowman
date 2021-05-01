@@ -1,4 +1,4 @@
-## Sup up space cowboy?
+## Sup space cowboy?
 
 
 There ain't much to say... I like ☕ and 🥓. Apart from that, I do Crossfit and code for a living. :v:
