@@ -19,6 +19,9 @@ My name is Mari and I like ☕ and 🥓. Apart from that, I do Crossfit and back
 <a href="https://python.org/">
   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png" alt="Python" height="50"/>
 </a>
+<a href="https://vuejs.org/">
+  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png" alt="Vue.js" height="50"/>
+</a>
 
 ### Other stuff
 
