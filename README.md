@@ -8,7 +8,7 @@ My name is Mari and I like ☕ and 🥓. Apart from that, I do Crossfit and back
   <img src="http://cdn.codesamplez.com/wp-content/uploads/2015/12/golang.png" alt="Golang" height="50"/>
 </a>
 <a href="https://java.com/">
-  <img src="https://blog.nebrass.fr/wp-content/uploads/java-logo.png" alt="Java" height="50"/>
+  <img src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png" alt="Java" height="50"/>
 </a>
 <a href="https://spring.io/">
   <img src="https://javapointers.com/wp-content/themes/JavaPointers/img/spring-logo.png" alt="Spring" height="50"/>
