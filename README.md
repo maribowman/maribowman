@@ -37,6 +37,9 @@ My name is Mari and I like ☕ and 🥓. Apart from that, I do Crossfit and back
 <a href="https://postgresql.org/">
   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png" alt="PostgreSQL" height="50"/>
 </a>
+<a href="https://www.influxdata.com/">
+  <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool-alpha.png" alt="InfluxDB" height="50"/>
+</a>
 <a href="https://linux.org/">
   <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-Transparent.png" alt="Linux" height="50"/>
 </a>
