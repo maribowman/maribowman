@@ -25,6 +25,9 @@ My name is Mari and I like ☕ and 🥓. Apart from that, I do crossfit, trade f
 <a href="https://www.gnu.org/software/bash/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" height="50"/>
 </a>
+<a href="https://www.mql5.com/en/docs/">
+  <img src="https://c.mql5.com/i/community/logo_mql5-2.png" alt="MQL5" height="50"/>
+</a>
 
 ### Other stuff
 
