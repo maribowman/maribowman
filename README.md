@@ -1,6 +1,6 @@
 ## Sup stranger?
 
-My name is Mari and I like ☕ and 🥓. Apart from that, I do crossfit, trade forex and code backends. :v:
+My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade forex and code backends. :v:
 
 ### Languages
 
