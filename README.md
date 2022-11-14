@@ -55,5 +55,8 @@ My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade fo
 <a href="https://kafka.apache.org/">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_167866.png" alt="Kafka" height="50"/>
 </a>
+<a href="https://www.snowflake.com/">
+  <img src="https://companieslogo.com/img/orig/SNOW-35164165.png" alt="Snowflake" height="50"/>
+</a>
 
 
