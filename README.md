@@ -1,4 +1,4 @@
-## Sup stranger?
+## Hey stranger
 
 My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade forex and code backends. :v:
 
@@ -55,9 +55,11 @@ My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade fo
 <a href="https://kafka.apache.org/">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_167866.png" alt="Kafka" height="50"/>
 </a>
+<!--
 <a href="https://www.snowflake.com/">
   <img src="https://companieslogo.com/img/orig/SNOW-35164165.png" alt="Snowflake" height="50"/>
 </a>
+-->
 <a href="https://www.databricks.com/">
   <img src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png" alt="Databricks" height="50"/>
 </a>
