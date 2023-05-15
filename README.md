@@ -49,11 +49,15 @@ My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade fo
 <a href="https://www.influxdata.com/">
   <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool-alpha.png" alt="InfluxDB" height="50"/>
 </a>
+<a href="https://grafana.com//">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/702px-Grafana_icon.svg.png?20230113182558" alt="Grafana" height="50"/>
 <a href="https://linux.org/">
   <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-Transparent.png" alt="Linux" height="50"/>
 </a>
 <a href="https://kafka.apache.org/">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_167866.png" alt="Kafka" height="50"/>
+</a>
+
 </a>
 <!--
 <a href="https://www.snowflake.com/">
