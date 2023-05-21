@@ -28,6 +28,9 @@ My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade fo
 <a href="https://www.mql5.com/en/docs/">
   <img src="https://c.mql5.com/i/community/logo_mql5-2.png" alt="MQL5" height="50"/>
 </a>
+<a href="https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html">
+  <img src="https://www.tradingview.com/pine-script-docs/en/v5/_images/Pine_Script_logo_small.png" alt="Pine Script" height="50"/>
+</a>
 
 ### Other stuff
 
