@@ -38,7 +38,7 @@ My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade fo
 ### Other stuff
 
 <a href="https://docker.com/">
-  <img src="https://i.imgur.com/VyjCJuz.png" alt="Docker" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png?20230309095311" alt="Docker" height="50"/>
 </a>
 <a href="https://kubernetes.io/">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" alt="Kubernetes" height="50"/>
