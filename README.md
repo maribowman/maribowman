@@ -61,7 +61,10 @@ My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade fo
   <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-Transparent.png" alt="Linux" height="50"/>
 </a>
 <a href="https://kafka.apache.org/">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_167866.png" alt="Kafka" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Kafka" height="50"/>
+</a>
+<a href="https://flink.apache.org/">
+  <img src="https://flink.apache.org/img/logo/png/50/color_50.png" alt="Flink" height="50"/>
 </a>
 
 <!--
