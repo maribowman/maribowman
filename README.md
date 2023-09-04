@@ -50,13 +50,14 @@ My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade fo
   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png" alt="PostgreSQL" height="50"/>
 </a>
 <a href="https://www.timescale.com/">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/timescaledb-1958407-1651618.png" alt="TimescaleDB" height="50"/>
+  <img src="https://www.timescale.com/static/f2ad0b5d363418dec15c7cc5d03c7df6/Timescale-Brandmark-Yellow-SVG.svg" alt="TimescaleDB" height="50"/>
 </a>
 <a href="https://www.influxdata.com/">
   <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool-alpha.png" alt="InfluxDB" height="50"/>
 </a>
 <a href="https://grafana.com//">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/702px-Grafana_icon.svg.png?20230113182558" alt="Grafana" height="50"/>
+</a>
 <a href="https://linux.org/">
   <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-Transparent.png" alt="Linux" height="50"/>
 </a>
