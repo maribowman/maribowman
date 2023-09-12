@@ -1,6 +1,6 @@
-## Hey stranger
+## Hey stranger :v:
 
-My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade forex and code backends. :v:
+I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do crossfit, trade forex and code industrial backends.
 
 ### Languages
 
@@ -35,7 +35,7 @@ My name is Mari and I like ☕ and 🥓. Apart from that I do crossfit, trade fo
   <img src="https://ex-codes.gallerycdn.vsassets.io/extensions/ex-codes/pine-script-syntax-highlighter/1.0.5/1645237303182/Microsoft.VisualStudio.Services.Icons.Default" alt="Pine Script" height="40"/>
 </a>
 
-### Other stuff
+### Tools
 
 <a href="https://docker.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png?20230309095311" alt="Docker" height="50"/>
