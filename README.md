@@ -55,8 +55,11 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
 <a href="https://www.influxdata.com/">
   <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool-alpha.png" alt="InfluxDB" height="50"/>
 </a>
-<a href="https://grafana.com//">
+<a href="https://grafana.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/702px-Grafana_icon.svg.png?20230113182558" alt="Grafana" height="50"/>
+</a>
+<a href="https://k6.io/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" height="50"/>
 </a>
 <a href="https://linux.org/">
   <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-Transparent.png" alt="Linux" height="50"/>
