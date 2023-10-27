@@ -43,10 +43,10 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
 <a href="https://kubernetes.io/">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" alt="Kubernetes" height="50"/>
 </a>
-<a href="https://pulumi.com/">
+<a href="https://azure.microsoft.com/">
   <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="Azure" height="50"/>
 </a>
-<a href="https://azure.microsoft.com/">
+<a href="https://pulumi.com/">
   <img src="https://seeklogo.com/images/P/pulumi-icon-logo-85F925ED2D-seeklogo.com.png" alt="Pulumi" height="50"/>
 </a>
 <a href="https://postgresql.org/">
