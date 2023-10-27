@@ -25,13 +25,13 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
 <a href="https://vuejs.org/">
   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png" alt="Vue.js" height="50"/>
 </a>
-<a href="https://www.gnu.org/software/bash/">
+<a href="https://gnu.org/software/bash/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" height="50"/>
 </a>
-<a href="https://www.mql5.com/en/docs/">
+<a href="https://mql5.com/en/docs/">
   <img src="https://c.mql5.com/i/community/logo_mql5-2.png" alt="MQL5" height="50"/>
 </a>
-<a href="https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html">
+<a href="https://tradingview.com/pine-script-docs/en/v5/Introduction.html">
   <img src="https://ex-codes.gallerycdn.vsassets.io/extensions/ex-codes/pine-script-syntax-highlighter/1.0.5/1645237303182/Microsoft.VisualStudio.Services.Icons.Default" alt="Pine Script" height="40"/>
 </a>
 
@@ -43,16 +43,19 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
 <a href="https://kubernetes.io/">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" alt="Kubernetes" height="50"/>
 </a>
-<a href="https://azure.microsoft.com/">
+<a href="https://pulumi.com/">
   <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="Azure" height="50"/>
+</a>
+<a href="https://azure.microsoft.com/">
+  <img src="https://seeklogo.com/images/P/pulumi-icon-logo-85F925ED2D-seeklogo.com.png" alt="Pulumi" height="50"/>
 </a>
 <a href="https://postgresql.org/">
   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png" alt="PostgreSQL" height="50"/>
 </a>
-<a href="https://www.timescale.com/">
+<a href="https://timescale.com/">
   <img src="https://www.timescale.com/static/f2ad0b5d363418dec15c7cc5d03c7df6/Timescale-Brandmark-Yellow-SVG.svg" alt="TimescaleDB" height="50"/>
 </a>
-<a href="https://www.influxdata.com/">
+<a href="https://influxdata.com/">
   <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool-alpha.png" alt="InfluxDB" height="50"/>
 </a>
 <a href="https://grafana.com/">
