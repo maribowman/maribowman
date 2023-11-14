@@ -2,7 +2,7 @@
 
 I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do crossfit, trade forex and code industrial backends.
 
-### Languages
+### Languages & Frameworks
 
 <a href="https://golang.org/">
   <img src="http://cdn.codesamplez.com/wp-content/uploads/2015/12/golang.png" alt="Golang" height="50"/>
@@ -35,7 +35,7 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
   <img src="https://ex-codes.gallerycdn.vsassets.io/extensions/ex-codes/pine-script-syntax-highlighter/1.0.5/1645237303182/Microsoft.VisualStudio.Services.Icons.Default" alt="Pine Script" height="40"/>
 </a>
 
-### Tools
+### Tools & Platforms
 
 <a href="https://docker.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png?20230309095311" alt="Docker" height="50"/>
