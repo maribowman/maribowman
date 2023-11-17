@@ -55,9 +55,11 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
 <a href="https://timescale.com/">
   <img src="https://www.timescale.com/static/f2ad0b5d363418dec15c7cc5d03c7df6/Timescale-Brandmark-Yellow-SVG.svg" alt="TimescaleDB" height="50"/>
 </a>
+<!--
 <a href="https://influxdata.com/">
   <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool-alpha.png" alt="InfluxDB" height="50"/>
 </a>
+-->
 <a href="https://grafana.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/702px-Grafana_icon.svg.png?20230113182558" alt="Grafana" height="50"/>
 </a>
