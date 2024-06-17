@@ -22,9 +22,6 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
 <a href="https://pandas.pydata.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png?20200210000431" alt="Pandas" height="50"/>
 </a>
-<a href="https://vuejs.org/">
-  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png" alt="Vue.js" height="50"/>
-</a>
 <a href="https://gnu.org/software/bash/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" height="50"/>
 </a>
@@ -55,11 +52,6 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
 <a href="https://timescale.com/">
   <img src="https://www.timescale.com/static/f2ad0b5d363418dec15c7cc5d03c7df6/Timescale-Brandmark-Yellow-SVG.svg" alt="TimescaleDB" height="50"/>
 </a>
-<!--
-<a href="https://influxdata.com/">
-  <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool-alpha.png" alt="InfluxDB" height="50"/>
-</a>
--->
 <a href="https://grafana.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/702px-Grafana_icon.svg.png?20230113182558" alt="Grafana" height="50"/>
 </a>
@@ -79,8 +71,5 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
 <!--
 <a href="https://www.snowflake.com/">
   <img src="https://companieslogo.com/img/orig/SNOW-35164165.png" alt="Snowflake" height="50"/>
-</a>
-<a href="https://www.databricks.com/">
-  <img src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png" alt="Databricks" height="50"/>
 </a>
 -->
