@@ -50,7 +50,7 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png" alt="PostgreSQL" height="50"/>
 </a>
 <a href="https://timescale.com/">
-  <img src="https://www.timescale.com/static/f2ad0b5d363418dec15c7cc5d03c7df6/Timescale-Brandmark-Yellow-SVG.svg" alt="TimescaleDB" height="40"/>
+  <img src="https://www.timescale.com/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Fassets.timescale.com%2Ftimescale-web%2Fbrand-images%2Fbadge%2Fyellow%2Flogo-yellow.png&w=384&q=75" alt="TimescaleDB" height="40"/>
 </a>
 <a href="https://grafana.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/702px-Grafana_icon.svg.png?20230113182558" alt="Grafana" height="40"/>
