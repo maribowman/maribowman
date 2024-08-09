@@ -5,7 +5,7 @@ I'm Mari... and I like :coffee:, :pretzel: and :bacon:. Apart from that I do cro
 ### Languages & Frameworks
 
 <a href="https://golang.org/" title="Go">
-  <img src="icons/golang.png" alt="Go" height="40"/>
+  <img src="icons/go.png" alt="Go" height="40"/>
 </a>
 <a href="https://java.com/">
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/243px-Java-Logo.svg.png?20061221200047" alt="Java" height="40"/>
